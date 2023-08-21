@@ -1,8 +1,3 @@
-/*var nome = prompt('Qual é o seu nome?');
-
-document.write('Olá, ' + nome + ', seja bem vindo(a)!');
-*/
-
 var nomeId = document.getElementById("nomeId");
 var buttonId = document.getElementById("buttonId");
 var spaceRetur = document.getElementById("spaceRetur");
